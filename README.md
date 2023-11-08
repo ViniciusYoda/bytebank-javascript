@@ -6,7 +6,7 @@
 <p align="center">Bytebank: o seu banco digital!</p>
 
 ## Assuntos abordados durante o curso
-* Fetch API 
+* Fetch API  
 * Threads
 * Concorrência
 * Paralelismo
